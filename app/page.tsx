@@ -213,7 +213,7 @@ export default function Home() {
       </header>
 
       {/* Modern Hero Section */}
-      <section className="relative min-h-screen flex items-center justify-center pt-20 pb-16 px-4 sm:px-6 lg:px-8">
+      <section className="relative min-h-screen flex items-center justify-center pt-28 pb-16 px-4 sm:px-6 lg:px-8">
         {/* Background with Parallax Effect */}
         <div className="absolute inset-0 overflow-hidden">
           <div
